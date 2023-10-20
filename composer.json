@@ -1,5 +1,5 @@
 {
-    "name": "amrshawky/laravel-currency",
+    "name": "xdemonme/laravel-currency",
     "description": "A Laravel package for current and historical currency exchange rates & crypto exchange rates based on the free API provided by exchangerate.host",
     "keywords": [
         "laravel",
@@ -20,7 +20,7 @@
         "guzzlehttp/guzzle": ">=6.0",
         "ext-json": "*",
         "illuminate/support": "^6.0|^7.0|^8.0|^9.0|^10.0",
-        "amrshawky/currency": "^1.0"
+        "xdemonme/currency": "^1.0"
     },
     "require-dev": {
         "phpunit/phpunit": ">=8.5.23"
